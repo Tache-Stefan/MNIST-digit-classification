@@ -3,7 +3,7 @@
 This is a simple example of a neural network 
 that classifies handwritten digits from the MNIST dataset.
 Following the book 
-["Neural Networks and Deep Learning"](neuralnetworksanddeeplearning.com) 
+["Neural Networks and Deep Learning"](https://neuralnetworksanddeeplearning.com/)
 by Michael Nielsen, I understood how a neural network works at
 it's core.
 
